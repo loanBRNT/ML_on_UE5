@@ -1,0 +1,6 @@
+2023/05/02-18:55:28.983 7838 Creating DB C:/Users/loant/Documents/Unreal Projects/ML_on_UE5/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/05/02-18:55:28.998 7838 Reusing MANIFEST C:/Users/loant/Documents/Unreal Projects/ML_on_UE5/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/02-18:56:58.403 4968 Level-0 table #5: started
+2023/05/02-18:56:58.409 4968 Level-0 table #5: 9337 bytes OK
+2023/05/02-18:56:58.411 4968 Delete type=0 #3
+2023/05/02-18:56:58.412 4968 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

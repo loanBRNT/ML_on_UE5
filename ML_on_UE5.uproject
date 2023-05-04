@@ -19,6 +19,10 @@
 		{
 			"Name": "NeuralNetworkInference",
 			"Enabled": true
+		},
+		{
+			"Name": "MLAdapter",
+			"Enabled": true
 		}
 	]
 }
